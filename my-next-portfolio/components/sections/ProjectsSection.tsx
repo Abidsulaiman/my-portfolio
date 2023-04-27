@@ -5,8 +5,6 @@ import TitleSectionPageContainer from '../utils/TitleSectionPageContainer';
 
 const myGithub = 'https://github.com/abidsulaiman';
 
-// just a comment
-
 const ProjectsSection = () => {
   return (
     <SectionContainer>
