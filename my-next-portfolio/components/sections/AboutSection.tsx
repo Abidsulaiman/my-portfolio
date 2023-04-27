@@ -11,23 +11,23 @@ const skills = [
   },
   {
     title: 'Frameworks and libraries',
-    techs: ['jQuery', 'Angular', 'React', 'Next.js', 'Ionic', 'Electron.js']
+    techs: ['jQuery', 'React', 'Next.js', 'Gatsby Js', "Bootstrap"]
   },
   {
     title: 'JavaScript libraries',
-    techs: ['Redux', 'TanStack Query', 'react-router-dom', 'Wouter', 'react-helmet', 'Formik', 'Jest']
+    techs: ['Redux', 'TanStack Query', 'react-router-dom', 'Wouter', 'react-helmet', 'Formik', 'Jest', "URQL"]
   },
   {
     title: 'Preprocessors, css style, component and motion libraries',
-    techs: ['Pug', 'Scss', 'Sass', 'Less', 'Bootstrap', 'Tailwind', 'ChakraUI', 'MaterialUI', 'Framer Motion']
+    techs: ['Scss', 'Sass', 'Less', 'Bootstrap', 'Tailwind', 'MaterialUI', 'Framer Motion']
   },
   {
     title: 'Backend stack',
-    techs: ['Node.js', 'Express.js', 'MongoDB', 'Mongoose', 'Firebase', 'Sanity CMS', 'Strapi', 'Docker']
+    techs: ['Node.js', 'Express.js', 'MongoDB', 'Mongoose', 'Firebase', 'Sanity CMS', 'Strapi', 'Graph ql', "sql"]
   },
   {
     title: 'Softwares and tools',
-    techs: ['VS Code', 'Jira', 'Trello', 'Git', 'GitHub', 'ESLint', 'Husky', 'WordPress', 'Elementor', 'Figma', 'Photoshop']
+    techs: ['VS Code', 'Jira', 'Trello', 'Git', 'GitHub', 'ESLint', 'WordPress', 'Elementor', 'Figma', 'Photoshop']
   },
   {
     title: 'Agile methodologies and coding principles',
