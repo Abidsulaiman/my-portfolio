@@ -9,11 +9,35 @@ const allProjectsInfo = [
   {
     id: '1',
     title: 'Marvel Characters API',
-    des: 'Project using the marvel api, you can search the marvel characters you want. and click a character to see more details.',
+    des: 'Project built using the marvel api, you can search the marvel characters you want. and click a character to see more details.',
     category: 'javascript - next',
     repo: 'https://github.com/Abidsulaiman/marvel-app',
     link: 'https://marvel-app-iota.vercel.app/'
-  }
+  },
+  {
+    id: '2',
+    title: 'Growth Nodes | Social media CRM',
+    des: 'A social media CRM platform which automates the process and functions.',
+    category: 'javascript - react',
+    repo: 'https://github.com/Abidsulaiman/growthnodes',
+    link: 'https://growthnodes.com/'
+  },
+  {
+    id: '3',
+    title: 'Netflix Clone App',
+    des: 'Project built using IMDB rating api, react and tailwind CSS',
+    category: 'javascript - react',
+    repo: 'https://github.com/Abidsulaiman/netflix-clone',
+    link: 'https://netflix-clone-a8f39.web.app/'
+  },
+  {
+    id: '4',
+    title: 'Tab Alerts Web App',
+    des: 'Project built using javascript, React, Material UI',
+    category: 'javascript - react',
+    repo: 'https://github.com/Abidsulaiman/tabalerts-extension',
+    link: 'https://tabalertsreact.web.app/'
+  },
 ];
 
 const SearchAllProjects = () => {
