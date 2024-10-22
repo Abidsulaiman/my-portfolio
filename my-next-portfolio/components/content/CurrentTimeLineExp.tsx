@@ -8,6 +8,50 @@ const CurrentTimeLineExp = () => {
       <TimelineEvent active>
         <TimelineEvent.Title>
           <a
+            href="https://abzdev.vercel.app"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-white hover:underline transition-all ease"
+          >
+            Freelancer
+          </a>{' '}
+          | October 2024 - Currently
+        </TimelineEvent.Title>
+
+        <TimelineEvent.Description>
+          Building robust and effiecient web apps using Next Js, GraphQl, SQL, Figma, Node JS.
+        </TimelineEvent.Description>
+      </TimelineEvent>
+
+      <TimelineEvent>
+        <TimelineEvent.Title>
+          <a
+            href="https://girsoftwareservices.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-white hover:underline transition-all ease"
+          >
+            GIR Software Services
+          </a>{' '}
+          | July 2023 - September 2024
+        </TimelineEvent.Title>
+
+        <TimelineEvent.Description>
+          Implemented custom features and functionality within the SuiteCommerce Advanced platform to meet unique business requirements.
+          Built custom extensions using SuiteScript and Backbone.js.
+          Create and modify SuiteCommerce themes and templates for UI/UX customization.
+          Optimized performance, security, and scalability of eCommerce implementations.
+          Utilized REST/SOAP APIs for smooth data exchanges between NetSuite and external
+          applications.
+          Implement responsive design to ensure the site performs well across devices.
+          Optimize page load times and implement best practices for SEO.
+          Create user-friendly navigation, checkout processes, and interactive features.
+        </TimelineEvent.Description>
+      </TimelineEvent>
+
+      <TimelineEvent>
+        <TimelineEvent.Title>
+          <a
             href="https://94dev.xyz/"
             target="_blank"
             rel="noopener noreferrer"
@@ -15,7 +59,7 @@ const CurrentTimeLineExp = () => {
           >
             94 DEV
           </a>{' '}
-          | dec. 2021 - Currently
+          | dec. 2021 - June 2023
         </TimelineEvent.Title>
 
         <TimelineEvent.Description>
